@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/islamickcyberchat/Try"
+		"url": "https://raw.githubusercontent.com/islamickcyberchat/cyber-clone/main/package.json"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "Islamick Cyber Chat",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/islamickcyberchat/Try/issues"
+		"url": "https://raw.githubusercontent.com/islamickcyberchat/cyber-clone/main/package.json/issues"
 	},
-	"homepage": "https://github.com/islamickcyberchat/Try",
+	"homepage": "https://raw.githubusercontent.com/islamickcyberchat/cyber-clone/main/package.json",
 	"dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
@@ -108,4 +108,4 @@
 		"zalgo": "0.0.1"
 	},
 	"devDependencies": {}
-  }
+}
