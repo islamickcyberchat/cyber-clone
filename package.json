@@ -15,17 +15,17 @@
 	"keywords": [
 		"bot",
 		"facebook",
-		"projectpriyansh",
+		"projectcyber",
 		"messenger",
 		"javasvript",
-		"priyanshu",
-		"prince",
-		"mental"
+		"islamick",
+		"cyber",
+		"chat"
 	],
 	"author": "Islamick Cyber Chat",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://raw.githubusercontent.com/islamickcyberchat/cyber-clone/main/package.json/issues"
+		"url": "https://github.com/islamickcyberchat/Try/issues"
 	},
 	"homepage": "https://raw.githubusercontent.com/islamickcyberchat/cyber-clone/main/package.json",
 	"dependencies": {
@@ -51,7 +51,7 @@
 		"eval": "^0.1.8",
 		"extract-zip": "^2.0.1",
     "fb-tools": "0.0.1-security",
-		"fca-priyansh": "^14.0.0",
+		"fca-cyber": "^14.0.0",
     "figlet": "^1.5.2",
 		"form-data": "^4.0.0",
 		"fs-extra": "^10.1.0",
